@@ -1,27 +1,28 @@
 <div align="center">
-  <h1>Hi there! I'm Noor-Ul-Amin 👋</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/F1_chequered_flag_Animated.gif" width="400" alt="F1 Checkered Flag Animation" />
+  <h1>🏎️ Hi there! Noor-Ul-Amin on the grid 👋 🏁</h1>
   <p>
-    <em>BS Artificial Intelligence Student (6th Semester) | Machine Learning & Deep Learning Enthusiast</em>
+    <em>BS Artificial Intelligence (6th Semester) | Pushing the limits in ML & Deep Learning</em>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00FF9D&center=true&vCenter=true&width=450&lines=Building+Intelligent+Systems;Python+%26+Jupyter+Explorer;Always+Learning+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4500&color=EF1A2D&center=true&vCenter=true&width=500&lines=Full+Throttle+AI+Engineer;Python+%26+Jupyter+at+Top+Speed;Chasing+the+Fastest+Models;Lap+after+Lap+of+Learning" alt="F1 Typing Animation" />
 </div>
 
 <br>
 
-### About Me
-- 🎓 Pursuing **BS in Artificial Intelligence** — currently in 6th semester
-- 🧠 Solid knowledge of **Machine Learning**, **Deep Learning**, Neural Networks, and core AI concepts
-- 🌱 Focusing on **Python** development in **JupyterLab** — experimenting, building models, and improving daily
-- 👀 Passionate about **coding**, **AI/ML projects**, and connecting with fellow developers & AI enthusiasts
-- 💞️ Open to collaborate on Python scripts, ML experiments, data analysis, deep learning notebooks, or any interesting AI idea
-- 📫 Reach out:
+### Pit Stop Profile 🛠️
+- 🎓 **BS in Artificial Intelligence** — 6th semester, full send into advanced AI
+- 🧠 Expert grip on **Machine Learning**, **Deep Learning**, Neural Nets, Computer Vision & more
+- 🌱 Currently hot-lapping **Python** in **JupyterLab** — building, tuning, deploying models
+- 👀 Love **coding marathons**, **AI experiments**, meeting drivers (developers) in the paddock
+- 💞️ Ready to team up for Python projects, ML challenges, Kaggle races, or wild AI ideas
+- 📫 Radio check:
   - Instagram: [@nur_ul_amyn](https://instagram.com/nur_ul_amyn)
-  - (Add LinkedIn, email, or Discord here when ready)
+  - (Drop your LinkedIn / email in here for faster comms)
 
 <br>
 
-### Tech Stack
+### Tech Stack – Powered by
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -30,27 +31,26 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <!-- Add more shields later: Keras, Matplotlib, Seaborn, OpenCV, etc. -->
 </p>
 
 <br>
 
-### GitHub Activity
+### Race Stats – Current Season
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Noor-Ul-Amin's GitHub stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=nur-ul-amin&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Noor-Ul-Amin's GitHub stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=nur-ul-amin&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=dracula&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" width="60%" />
 </div>
 
 <br>
 
-### Let's Connect & Build Together!
-Feel free to explore my repos, open issues, or reach out if you want to collaborate on a Python/AI project, review code, or just chat about machine learning.
+### Let's Race Together! 🏎️💨
+Explore the garage (my repos), fork a project, or slide into DMs if you want to co-drive a Python/AI build, debug at full speed, or talk racing lines in machine learning.
 
-⭐ If you find any of my work useful, give it a star!  
-🚀 Always learning, coding, and iterating.
+⭐ Star if you feel the downforce!  
+🏁 Always qualifying higher, always pushing harder.
 
-Thanks for visiting! 😄
+See you at the chequered flag! 😎
