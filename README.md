@@ -1,81 +1,118 @@
 <div align="center">
-  <!-- F1 Header - Double animation banner -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="280" alt="F1 Car Racing Animation" />
-      </td>
-      <td align="center">
-        <h1 style="font-size: 3.2em; margin: 0;">🏎️ NOOR-UL-AMIN 🏁</h1>
-        <p>
-          <em>BS Artificial Intelligence (6th Semester) | Machine Learning & Deep Learning Enthusiast</em>
-        </p>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/F1_chequered_flag_Animated.gif" width="280" alt="F1 Checkered Flag Animation" />
-      </td>
-    </tr>
-  </table>
 
-  <!-- Epic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3800&color=EF1A2D&center=true&vCenter=true&width=620&lines=QUALIFYING+FOR+THE+AI+CHAMPIONSHIP;PYTHON+%26+JUPYTER+AT+300+KM%2FH;PUSHING+THE+LIMITS+IN+DEEP+LEARNING;FULL+THROTTLE+INTO+THE+FUTURE;CHASING+THE+CHEQUERED+FLAG+OF+INNOVATION" alt="F1 Typing Animation" />
+<!-- Neural Grid Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=NOOR%20UL%20AMIN&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descColor=a78bfa&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+Training;Deep+Learning+%7C+Neural+Networks+%7C+Computer+Vision;Building+Intelligent+Systems+from+Scratch;6th+Semester+%E2%80%94+BS+Artificial+Intelligence;Open+to+Collaborate+%E2%80%94+Let%27s+Build+Something" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<!-- Racing Line Separator -->
-<p align="center">🏎️💨 ──────────────────────── 🏁</p>
+<!-- About Section -->
+<table>
+<tr>
+<td width="55%">
 
-### 🏎️ QUALIFYING PROFILE
-- 🎓 **BS in Artificial Intelligence** — full send into advanced AI
-- 🧠 Expert grip on **Machine Learning**, **Deep Learning**, Neural Networks, and core AI concepts
-- 🌱 Currently hot-lapping **Python** in **JupyterLab** — experimenting, building models, and improving daily
-- 👀 Passionate about **coding**, **AI/ML projects**, and connecting with fellow coders & AI enthusiasts
-- 💞️ Open to collaborate on Python scripts, ML experiments, data analysis, deep learning notebooks, or any interesting AI idea
-- 📫 Paddock Radio:
-  - Instagram: [@nur_ul_amyn](https://instagram.com/nur_ul_amyn)
-  - LinkedIn: [Noor Ul Amin](https://www.linkedin.com/in/noor-ul-amin-0b8560285/)
+### `$ whoami`
 
-<br>
+```python
+class NoorUlAmin:
+    name       = "Noor Ul Amin"
+    degree     = "BS Artificial Intelligence"
+    semester   = "6th Semester"
+    location   = "Pakistan 🇵🇰"
 
-<!-- Racing Line Separator -->
-<p align="center">🏎️💨 ──────────────────────── 🏁</p>
+    interests  = [
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Networks",
+        "Computer Vision",
+        "Data Science",
+    ]
 
-### 🏎️ THE GARAGE – TECH STACK
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
+    currently  = "Hot-lapping Python in JupyterLab"
+    open_to    = "Collaborations & AI Projects"
+    motto      = "Model. Train. Deploy. Repeat."
+```
 
-<br>
+</td>
+<td width="45%" align="center">
 
-<!-- Racing Line Separator -->
-<p align="center">🏎️💨 ──────────────────────── 🏁</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="100%" />
 
-### 🏎️ RACE STATS – CURRENT SEASON
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=15&cache_seconds=1800" alt="Noor-Ul-Amin's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=nur-ul-amin&theme=dracula&hide_border=true&border_radius=15&cache_seconds=1800" alt="GitHub Streak" width="49%" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=nur-ul-amin&theme=midnight-purple&hide_border=true&border_radius=12&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff" alt="Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 Core Competencies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=dracula&hide_border=true&langs_count=8&border_radius=15&cache_seconds=1800" alt="Top Languages" width="65%" />
+
+| Domain | Skills |
+|--------|--------|
+| **Languages** | Python · SQL · Markdown |
+| **ML / DL** | TensorFlow · PyTorch · Scikit-Learn · Keras |
+| **Data** | NumPy · Pandas · Matplotlib · Seaborn |
+| **Tools** | JupyterLab · Git · VS Code · Google Colab |
+| **Concepts** | CNNs · RNNs · Transformers · Regression · Classification |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00d4ff)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00d4ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=for-the-badge&logo=google-colab&logoColor=a78bfa)
+
+</div>
+
+---
+
+### 📊 Language Distribution
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&border_radius=12&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="55%" />
+</div>
+
+---
+
+### 📡 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nur-ul-amin&bg_color=0d1117&color=00d4ff&line=a78bfa&point=ffffff&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+### 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/noor-ul-amin-0b8560285/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://instagram.com/nur_ul_amyn)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/nur-ul-amin)
+
 </div>
 
 <br>
 
-<!-- Racing Line Separator -->
-<p align="center">🏎️💨 ──────────────────────── 🏁</p>
+> *"In a world of noise, let your models speak with precision."*
 
-### 🏎️ LET'S RACE TOGETHER!
-Feel free to explore the garage (my repos), open issues, or reach out if you want to co-drive a Python/AI project, review code at full speed, or just chat about machine learning.
-
-⭐ Drop a star if you're feeling the downforce!  
-🏁 Always qualifying higher, always pushing harder.
-
-See you at the chequered flag, champion! 😎
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
