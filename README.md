@@ -32,9 +32,16 @@ class NoorUlAmin:
         "Data Science",
     ]
 
-    currently  = "Hot-lapping Python in JupyterLab"
-    open_to    = "Collaborations & AI Projects"
-    motto      = "Model. Train. Deploy. Repeat."
+  class Profile:
+    def __init__(self):
+        self.focus_areas = [
+            "Deep Learning", 
+            "Computer Vision (CNNs)", 
+            "Natural Language Processing (RNNs/Transformers)"
+        ]
+        self.currently = "Architecting Neural Networks & Fine-Tuning Hyperparameters"
+        self.open_to = "Collaborations & High-Impact AI Projects"
+        self.motto = "Model. Train. Deploy. Repeat."
 ```
 
 </td>
