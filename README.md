@@ -1,6 +1,22 @@
-<div align="center">
+### ABOUT ME
 
-  <br/><br/>
+**Profile Summary**
+* **Name:** Noor Ul Amin
+* **Role:** Artificial Intelligence & Computer Vision Engineer
+* **Location:** Gilgit / Islamabad, Pakistan 🇵🇰
+* **Primary Tech Stack:** Python, PyTorch, OpenCV, C++
+* **Key Focus:** Real-Time Vision & Physics Simulation
+
+**Core Focus & Skills**
+* **Core Technologies:** Python, PyTorch, C++
+* **Vision & Deep Learning:** OpenCV, YOLO, Convolutional Neural Networks (CNNs)
+* **Active Domains:** Multi-Object Tracking (MOT), Real-Time Detection, Physics Engines
+* **Advanced Exploration:** Transformer Architectures, Vision-Language Models (VLMs), MLOps
+* **Expertise:** Computer Vision, PyTorch, Neural Networks, OpenCV, C++
+
+---
+
+<div align="center">
 
   <!-- Contact & Social Badges -->
   <a href="https://www.linkedin.com/in/noor-ul-amin-0b8560285/">
@@ -27,24 +43,6 @@
 </div>
 
 <br/>
-
----
-
-### ABOUT ME
-
-**Profile Summary**
-* **Name:** Noor Ul Amin
-* **Role:** Artificial Intelligence & Computer Vision Engineer
-* **Location:** Gilgit / Islamabad, Pakistan 🇵🇰
-* **Primary Tech Stack:** Python, PyTorch, OpenCV, C++
-* **Key Focus:** Real-Time Vision & Physics Simulation
-
-**Core Focus & Skills**
-* **Core Technologies:** Python, PyTorch, C++
-* **Vision & Deep Learning:** OpenCV, YOLO, Convolutional Neural Networks (CNNs)
-* **Active Domains:** Multi-Object Tracking (MOT), Real-Time Detection, Physics Engines
-* **Advanced Exploration:** Transformer Architectures, Vision-Language Models (VLMs), MLOps
-* **Expertise:** Computer Vision, PyTorch, Neural Networks, OpenCV, C++
 
 ---
 
