@@ -1,85 +1,153 @@
-<a href="https://github.com/nur-ul-amin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-    <img alt="Noor Ul Amin — AI Student & Developer" src="dark_mode.svg" width="854">
-  </picture>
-</a>
+<div align="center">
 
-<br>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1e2e,100:0d1117&height=220&section=header&text=NOOR%20UL%20AMIN&fontSize=44&fontColor=89b4fa&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Computer%20Vision%20Developer%20%7C%20Deep%20Learning%20Researcher&descSize=16&descAlignY=62&descColor=a6adc8" width="100%" alt="Header Banner"/>
 
-<p align="center">
+  <br/>
+
+  <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/noor-ul-amin-0b8560285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/NoorUlA67762535">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>&nbsp;
-  <a href="mailto:aminnulnoor10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:aminnulnoor10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/NoorUlA67762535">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/nur_ul_amyn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nur-ul-amin&style=flat-square&color=AE75DA&label=Profile+Views" alt="Profile Views"/>
-</p>
+  <br/><br/>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=nur-ul-amin&style=flat-square&color=89b4fa&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 ---
 
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&icon_color=3fb950&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-ul-amin&theme=github-dark-blue&hide_border=true&background=161b22&ring=AE75DA&fire=3fb950&currStreakLabel=AE75DA" width="49%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&text_color=c9d1d9" width="40%" alt="Top Languages"/>
-</p>
-</details>
+### 👨‍💻 About Me
 
-<details>
-<summary><b>🏗️ Featured Projects</b></summary>
-<br>
-<p align="center">
-  <a href="https://github.com/nur-ul-amin/Motion-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nur-ul-amin&repo=Motion-Tracker&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&icon_color=3fb950&text_color=c9d1d9" alt="Motion Tracker"/>
-  </a>
-  <a href="https://github.com/nur-ul-amin/Bounce-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nur-ul-amin&repo=Bounce-Game&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&icon_color=3fb950&text_color=c9d1d9" alt="Bounce Game"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/nur-ul-amin/opencv-edge-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nur-ul-amin&repo=opencv-edge-detection&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&icon_color=3fb950&text_color=c9d1d9" alt="Edge Detection"/>
-  </a>
-  <a href="https://github.com/nur-ul-amin/Edge-Detection-Project-Enhancement-Deployment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nur-ul-amin&repo=Edge-Detection-Project-Enhancement-Deployment&theme=github_dark&hide_border=true&bg_color=161b22&title_color=AE75DA&icon_color=3fb950&text_color=c9d1d9" alt="Edge Detection Deployment"/>
-  </a>
-</p>
-</details>
+```yaml
+Developer: Noor Ul Amin
+Focus: Computer Vision, Deep Learning & Intelligent Systems
+Location: Pakistan (PKT / UTC+5)
+Currently: Building real-time vision pipelines & neural network simulations
+Passionate: Turning complex AI concepts into production-ready software
+```
 
-<details>
-<summary><b>🛠️ Tech Stack</b></summary>
-<br>
+- 🎓 **Specialization**: Artificial Intelligence, Computer Vision & Deep Learning
+- 🔭 **Current Focus**: Multi-Object Tracking (MOT), Real-Time Detection & Physics Simulation Engines
+- 🧠 **Exploring**: Transformer Architectures, Vision-Language Models (VLMs) & MLOps Pipelines
+- 💬 **Ask me about**: OpenCV, PyTorch, YOLO, Python, and C++
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
+  <b>Languages</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
+
 <p align="center">
+  <b>AI & Computer Vision</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
-</details>
+
+<p align="center">
+  <b>Backend & Tools</b><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pygame-111111?style=flat-square&logo=python&logoColor=green"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AE75DA&height=60&section=footer" width="100%"/>
-</p>
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Motion Tracker</h3>
+      <p>Real-time computer vision motion tracking pipeline utilizing OpenCV for precision video analysis and multi-object tracking.</p>
+      <p align="center">
+        <a href="https://github.com/nur-ul-amin/Motion-Tracker">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⏳ Custom Pendulum Simulator</h3>
+      <p>Interactive multi-pendulum chaos simulator with pan/zoom canvas, drag-and-drop mechanics, and custom RK4 physics solver.</p>
+      <p align="center">
+        <a href="https://github.com/nur-ul-amin/PendulumSim">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Driver Fatigue Detection</h3>
+      <p>Computer vision system monitoring facial landmarks and eye aspect ratio (EAR) to detect real-time driver drowsiness.</p>
+      <p align="center">
+        <a href="https://github.com/nur-ul-amin/driver_fatigue_detection">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 OpenCV Edge Detection</h3>
+      <p>Optimized edge detection framework incorporating custom filters, adaptive thresholding, and enhanced image processing pipeline.</p>
+      <p align="center">
+        <a href="https://github.com/nur-ul-amin/opencv-edge-detection">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&title_color=89b4fa&icon_color=a6e3a1&text_color=cdd6f4&bg_color=1e1e2e" width="48%" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" width="45%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-ul-amin&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=89b4fa&fire=f38ba8&currStreakLabel=89b4fa" width="94%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <sub><i>"Engineering intelligent algorithms with simplicity, performance, and precision."</i></sub>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:0d1117&height=80&section=footer" width="100%"/>
+</div>
