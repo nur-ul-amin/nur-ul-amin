@@ -30,7 +30,7 @@
 
 ---
 
-### 🎮 PLAYER CHARACTER STATS
+### About Me
 
 ```yaml
 [CHARACTER SHEET]
@@ -42,19 +42,25 @@ PRIMARY     : PYTHON, PYTORCH, OPENCV, C++
 SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 ```
 
-- 🕹️ **Class**: Artificial Intelligence & Computer Vision Developer
-- ⚔️ **Main Weapon**: Python & PyTorch Deep Learning Frameworks
-- 🛡️ **Armor**: OpenCV, YOLO & Convolutional Neural Networks
-- 📜 **Active Quest**: Multi-Object Tracking (MOT), Real-Time Detection & Physics Engines
-- 🧠 **Exploring**: Transformer Architectures, Vision-Language Models (VLMs) & MLOps
-- 💬 **Ask Me About**: Computer Vision, PyTorch, Neural Nets, OpenCV & C++
+**Role**
+* Class: Artificial Intelligence & Computer Vision Developer
+**Core Technologies**
+* Primary Languages & Frameworks: Python, PyTorch, C++
+**Computer Vision & Deep Learning Stack**
+* Frameworks & Models: OpenCV, YOLO, Convolutional Neural Networks (CNNs)
+**Active Focus Areas**
+* Core Domains: Multi-Object Tracking (MOT), Real-Time Detection, Physics Engines
+**Advanced Exploration**
+* Specializations: Transformer Architectures, Vision-Language Models (VLMs), MLOps
+**Areas of Expertise**
+* Topics: Computer Vision, PyTorch, Neural Networks, OpenCV, C++
 
 ---
 
-### 👾 TECH STACK & ARSENAL
+### TECH STACK
 
 <p align="center">
-  <b>🕹️ PROGRAMMING CORE</b><br/>
+  <b>PROGRAMMING CORE</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -63,7 +69,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 </p>
 
 <p align="center">
-  <b>🧠 COMPUTER VISION & AI</b><br/>
+  <b>COMPUTER VISION & AI</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -73,7 +79,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 </p>
 
 <p align="center">
-  <b>🛠️ DEVELOPER GEAR</b><br/>
+  <b>DEVELOPER GEAR</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -82,7 +88,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 
 ---
 
-### 🕹️ FEATURED QUESTS & PROJECTS
+### PROJECTS
 
 <table>
   <tr>
