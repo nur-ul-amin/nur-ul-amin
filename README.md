@@ -2,7 +2,7 @@
 
   <br/><br/>
 
-  <!-- Arcade Badges -->
+  <!-- Badges -->
   <a href="https://www.linkedin.com/in/noor-ul-amin-0b8560285/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,7 +22,7 @@
   <br/><br/>
 
   <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=nur-ul-amin&style=for-the-badge&color=bd00ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=nur-ul-amin&style=for-the-badge&color=0077B5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -32,35 +32,26 @@
 
 ### About Me
 
-```yaml
-[CHARACTER SHEET]
-NAME        : NOOR UL AMIN
-CLASS       : AI & COMPUTER VISION ENGINEER
-LEVEL       : 99
-SPAWN POINT : GILGIT / ISLAMABAD, PAKISTAN 🇵🇰
-PRIMARY     : PYTHON, PYTORCH, OPENCV, C++
-SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
-```
+**Profile Summary**
+* Name: Noor Ul Amin
+* Role: Artificial Intelligence & Computer Vision Engineer
+* Location: Gilgit / Islamabad, Pakistan
+* Primary Tech Stack: Python, PyTorch, OpenCV, C++
+* Key Focus: Real-Time Vision & Physics Simulation
 
-**Role**
-* Class: Artificial Intelligence & Computer Vision Developer
-**Core Technologies**
-* Primary Languages & Frameworks: Python, PyTorch, C++
-**Computer Vision & Deep Learning Stack**
-* Frameworks & Models: OpenCV, YOLO, Convolutional Neural Networks (CNNs)
-**Active Focus Areas**
-* Core Domains: Multi-Object Tracking (MOT), Real-Time Detection, Physics Engines
-**Advanced Exploration**
-* Specializations: Transformer Architectures, Vision-Language Models (VLMs), MLOps
-**Areas of Expertise**
-* Topics: Computer Vision, PyTorch, Neural Networks, OpenCV, C++
+**Core Focus & Skills**
+* Core Technologies: Python, PyTorch, C++
+* Vision & Deep Learning: OpenCV, YOLO, Convolutional Neural Networks (CNNs)
+* Active Domains: Multi-Object Tracking (MOT), Real-Time Detection, Physics Engines
+* Advanced Exploration: Transformer Architectures, Vision-Language Models (VLMs), MLOps
+* Expertise: Computer Vision, PyTorch, Neural Networks, OpenCV, C++
 
 ---
 
-### TECH STACK
+### Tech Stack
 
 <p align="center">
-  <b>PROGRAMMING CORE</b><br/>
+  <b>PROGRAMMING LANGUAGES</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -69,7 +60,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 </p>
 
 <p align="center">
-  <b>COMPUTER VISION & AI</b><br/>
+  <b>COMPUTER VISION & AI FRAMEWORKS</b><br/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -79,7 +70,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 </p>
 
 <p align="center">
-  <b>DEVELOPER GEAR</b><br/>
+  <b>DEVELOPMENT TOOLS & PLATFORMS</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -88,16 +79,16 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 
 ---
 
-### PROJECTS
+### Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Motion Tracker</h3>
-      <p>Real-time computer vision motion tracking pipeline using OpenCV for high-precision video analysis and multi-object tracking.</p>
+      <p>Real-time computer vision motion tracking pipeline using OpenCV for video analysis and multi-object tracking.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/Motion-Tracker">
-          <img src="https://img.shields.io/badge/VIEW_QUEST-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Quest"/>
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
@@ -106,7 +97,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
       <p>Interactive multi-pendulum chaos simulator featuring custom RK4 physics integration, infinite canvas, and interactive builder mode.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/PendulumSim">
-          <img src="https://img.shields.io/badge/VIEW_QUEST-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Quest"/>
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
@@ -114,19 +105,19 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Driver Fatigue Detection</h3>
-      <p>Computer vision system monitoring facial landmarks and eye aspect ratio (EAR) to detect real-time driver alertness and safety.</p>
+      <p>Computer vision system monitoring facial landmarks and eye aspect ratio (EAR) to detect real-time driver alertness.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/driver_fatigue_detection">
-          <img src="https://img.shields.io/badge/VIEW_QUEST-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Quest"/>
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">OpenCV Edge Detection</h3>
-      <p>Optimized image processing framework implementing adaptive filters, edge detection pipelines, and custom vision algorithms.</p>
+      <p>Image processing framework implementing adaptive filters, edge detection pipelines, and custom vision algorithms.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/opencv-edge-detection">
-          <img src="https://img.shields.io/badge/VIEW_QUEST-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="View Quest"/>
+          <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
         </a>
       </p>
     </td>
@@ -135,24 +126,18 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 
 ---
 
-### SYNTHWAVE ANALYTICS
+### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e0" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=synthwave&hide_border=true&title_color=00f0ff&text_color=e0e0e0" width="45%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur-ul-amin&layout=compact&theme=default&hide_border=true" width="45%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-ul-amin&theme=synthwave&hide_border=true&background=140e28&ring=00f0ff&fire=ff007f&currStreakLabel=00f0ff" width="94%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur-ul-amin&theme=default&hide_border=true" width="94%" alt="GitHub Streak"/>
 </div>
-
-<br/>
 
 ---
-
-<div align="center">
-
-</div>
