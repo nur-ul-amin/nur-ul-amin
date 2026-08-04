@@ -1,11 +1,5 @@
 <div align="center">
 
-  <!-- Pixel Art Header Banner -->
-  <img src="header_banner.png" width="100%" alt="Noor Ul Amin - Pixel Art Banner" />
-
-  <br/><br/>
-
-  <!-- Retro Typing SVG -->
   <br/><br/>
 
   <!-- Arcade Badges -->
