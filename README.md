@@ -6,8 +6,6 @@
   <br/><br/>
 
   <!-- Retro Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=AI+%26+COMPUTER+VISION+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;DEEP+LEARNING+%2B+PHYSICS+SIMULATORS;LEVEL+99+DEVELOPER" alt="Typing Banner" />
-
   <br/><br/>
 
   <!-- Arcade Badges -->
