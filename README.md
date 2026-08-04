@@ -93,7 +93,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Motion Tracker</h3>
+      <h3 align="center">Motion Tracker</h3>
       <p>Real-time computer vision motion tracking pipeline using OpenCV for high-precision video analysis and multi-object tracking.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/Motion-Tracker">
@@ -102,7 +102,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⏳ Custom Pendulum Simulator</h3>
+      <h3 align="center">Custom Pendulum Simulator</h3>
       <p>Interactive multi-pendulum chaos simulator featuring custom RK4 physics integration, infinite canvas, and interactive builder mode.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/PendulumSim">
@@ -113,7 +113,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚗 Driver Fatigue Detection</h3>
+      <h3 align="center">Driver Fatigue Detection</h3>
       <p>Computer vision system monitoring facial landmarks and eye aspect ratio (EAR) to detect real-time driver alertness and safety.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/driver_fatigue_detection">
@@ -122,7 +122,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔬 OpenCV Edge Detection</h3>
+      <h3 align="center">OpenCV Edge Detection</h3>
       <p>Optimized image processing framework implementing adaptive filters, edge detection pipelines, and custom vision algorithms.</p>
       <p align="center">
         <a href="https://github.com/nur-ul-amin/opencv-edge-detection">
@@ -135,7 +135,7 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 
 ---
 
-### 📊 SYNTHWAVE ANALYTICS
+### SYNTHWAVE ANALYTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nur-ul-amin&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=00f0ff&icon_color=ff007f&text_color=e0e0e0" width="48%" alt="GitHub Stats"/>
@@ -154,8 +154,5 @@ SPECIALTY   : REAL-TIME VISION & PHYSICS SIMULATION
 ---
 
 <div align="center">
-
-  <!-- Pixel Art Footer Banner -->
-  <img src="footer_banner.png" width="100%" alt="Game Over - Keep Building Footer Banner" />
 
 </div>
