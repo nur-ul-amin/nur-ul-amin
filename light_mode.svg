@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="830" viewBox="0 0 854 830">
+  <style>
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+  </style>
+  <rect width="854" height="830" rx="12" fill="#f6f8fa"/>
+  <rect x="1" y="1" width="852" height="828" rx="11" fill="none" stroke="#d0d7de" stroke-width="1"/>
+  
+  <!-- Window controls -->
+  <circle cx="28" cy="24" r="6" fill="#f85149"/>
+  <circle cx="48" cy="24" r="6" fill="#d29922"/>
+  <circle cx="68" cy="24" r="6" fill="#1a7f37"/>
+  <text x="120" y="28" fill="#57606a" font-family="Consolas, 'Courier New', monospace" font-size="13">noorulamin@github ~ neofetch</text>
+  
+  <line x1="16" y1="44" x2="838" y2="44" stroke="#d0d7de" stroke-width="1"/>
+
+  <text font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#24292f">
+
+    <!-- ASCII Art - Left Column -->
+    <tspan x="28" dy="32" xml:space="preserve" fill="#0969da">  ██████╗  ███╗   ██╗ █████╗ </tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da"> ██╔═══██╗████╗  ██║██╔══██╗</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da"> ██║   ██║██╔██╗ ██║███████║</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da"> ██║   ██║██║╚██╗██║██╔══██║</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da"> ╚██████╔╝██║ ╚████║██║  ██║</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝</tspan>
+    
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░█▀█░█▀█░█▀█░█▀▄  █░█░█░░</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░█░█░█░█░█░█░█▀▄  █░█░█░░</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░▀░▀░▀▀▀░▀▀▀░▀░▀  ▀▀▀░▀▀▀</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░█▀█░█▄▄▄░▀█▀░█▀█░</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░█▀█░█░░█░░█░░█░█░</tspan>
+    <tspan x="28" dy="18" xml:space="preserve" fill="#0969da">  ░▀░▀░▀░░▀░▀▀▀░▀░▀░</tspan>
+
+    <!-- Divider -->
+    <tspan x="28" dy="30" xml:space="preserve" fill="#d0d7de">─────────────────────────────────────────────────────────────────────────────────────────</tspan>
+
+    <!-- Header -->
+    <tspan x="28" dy="26" xml:space="preserve"><tspan fill="#1a7f37">github</tspan><tspan fill="#57606a">@</tspan><tspan fill="#8250df">noorulamin</tspan></tspan>
+    <tspan x="28" dy="20" xml:space="preserve" fill="#d0d7de">─────────────────────────────────────────────────────────────────────────────────────────</tspan>
+
+    <!-- System Info -->
+    <tspan x="28" dy="24" xml:space="preserve"><tspan fill="#8250df">Status</tspan><tspan fill="#57606a">     : </tspan><tspan fill="#24292f">Building intelligent systems</tspan><tspan fill="#1a7f37" class="pulse"> ●</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">OS</tspan><tspan fill="#57606a">         : </tspan><tspan fill="#0a3069">AI Student &amp; Developer</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Host</tspan><tspan fill="#57606a">       : </tspan><tspan fill="#0a3069">Gilgit / Islamabad, Pakistan</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Kernel</tspan><tspan fill="#57606a">     : </tspan><tspan fill="#0a3069">Artificial Intelligence</tspan></tspan>
+    
+    <tspan x="28" dy="28" xml:space="preserve" fill="#d0d7de">─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─</tspan>
+
+    <!-- Environment -->
+    <tspan x="28" dy="26" xml:space="preserve"><tspan fill="#8250df">Languages</tspan><tspan fill="#57606a">  : </tspan><tspan fill="#0a3069">Python, C++, Java, R, HTML/CSS, Assembly</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">AI/DL</tspan><tspan fill="#57606a">      : </tspan><tspan fill="#0a3069">PyTorch, TensorFlow, OpenCV</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Models</tspan><tspan fill="#57606a">     : </tspan><tspan fill="#0a3069">CNNs, RNNs/LSTMs, ViTs, Autoencoders</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Vision</tspan><tspan fill="#57606a">     : </tspan><tspan fill="#0a3069">YOLO, Image Processing, Object Detection</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Core CS</tspan><tspan fill="#57606a">    : </tspan><tspan fill="#0a3069">DSA, Problem Solving</tspan></tspan>
+    
+    <tspan x="28" dy="28" xml:space="preserve" fill="#d0d7de">─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─</tspan>
+
+    <!-- Projects -->
+    <tspan x="28" dy="26" xml:space="preserve"><tspan fill="#8250df">Focus</tspan><tspan fill="#57606a">      : </tspan><tspan fill="#0a3069">Computer Vision, Deep Learning, AI Systems</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Projects</tspan><tspan fill="#57606a">   : </tspan><tspan fill="#24292f">───────────────────────────────────────────</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#57606a">             ▸ </tspan><tspan fill="#0550ae">Assistive App for Visually Impaired</tspan><tspan fill="#57606a">  (2024)</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#57606a">             ▸ </tspan><tspan fill="#0550ae">Real-Time Face Recognition Model</tspan><tspan fill="#57606a">    (2024)</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#57606a">             ▸ </tspan><tspan fill="#0550ae">Live Object Detection Pipeline</tspan><tspan fill="#57606a">      (2025)</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#57606a">             ▸ </tspan><tspan fill="#0550ae">AI Crop Yield Prediction System</tspan><tspan fill="#57606a">     (2026)</tspan></tspan>
+
+    <tspan x="28" dy="28" xml:space="preserve" fill="#d0d7de">─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─</tspan>
+    
+    <!-- Beyond Code -->
+    <tspan x="28" dy="26" xml:space="preserve"><tspan fill="#8250df">Leadership</tspan><tspan fill="#57606a"> : </tspan><tspan fill="#0a3069">ITREB Crossroad Camp | Global Encounters</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Speaks</tspan><tspan fill="#57606a">     : </tspan><tspan fill="#0a3069">English, Urdu, Punjabi, Burushaski</tspan></tspan>
+    
+    <tspan x="28" dy="28" xml:space="preserve" fill="#d0d7de">─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─</tspan>
+
+    <!-- Contact -->
+    <tspan x="28" dy="26" xml:space="preserve"><tspan fill="#8250df">Timezone</tspan><tspan fill="#57606a">   : </tspan><tspan fill="#0a3069">PKT (UTC+5:00)</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Email</tspan><tspan fill="#57606a">      : </tspan><tspan fill="#0a3069">aminnulnoor10@gmail.com</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">LinkedIn</tspan><tspan fill="#57606a">   : </tspan><tspan fill="#0a3069">in/noor-ul-amin-0b8560285</tspan></tspan>
+    <tspan x="28" dy="22" xml:space="preserve"><tspan fill="#8250df">Twitter</tspan><tspan fill="#57606a">    : </tspan><tspan fill="#0a3069">@NoorUlA67762535</tspan></tspan>
+    
+    <tspan x="28" dy="28" xml:space="preserve" fill="#d0d7de">─────────────────────────────────────────────────────────────────────────────────────────</tspan>
+
+    <!-- Quote -->
+    <tspan x="28" dy="26" xml:space="preserve" fill="#57606a">// "The only way to do great work is to love what you do."</tspan>
+    <tspan x="28" dy="20" xml:space="preserve" fill="#57606a">//  — Steve Jobs</tspan>
+
+  </text>
+
+  <!-- Color palette blocks -->
+  <rect x="28"  y="790" width="28" height="18" rx="3" fill="#cf222e"/>
+  <rect x="62"  y="790" width="28" height="18" rx="3" fill="#d29922"/>
+  <rect x="96"  y="790" width="28" height="18" rx="3" fill="#1a7f37"/>
+  <rect x="130" y="790" width="28" height="18" rx="3" fill="#0969da"/>
+  <rect x="164" y="790" width="28" height="18" rx="3" fill="#8250df"/>
+  <rect x="198" y="790" width="28" height="18" rx="3" fill="#0550ae"/>
+  <rect x="232" y="790" width="28" height="18" rx="3" fill="#0a3069"/>
+  <rect x="266" y="790" width="28" height="18" rx="3" fill="#24292f"/>
+
+</svg>
